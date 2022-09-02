@@ -8,7 +8,7 @@
     --tertiary-background-color: var(--primary-color);
 
     --primary-text-color: var(secundary-color);
-    --secundary-text-color: var(tertiary-color);
+    --secondary-text-color: var(--tertiary-color);
 
     --danger-color: #ff002e;
 }
